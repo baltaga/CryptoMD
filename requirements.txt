@@ -1,0 +1,14 @@
+aiogram
+asyncio
+telebot
+os
+Bot
+Dispatcher
+executor
+types
+Message
+ReplyKeyboardMarkup
+InlineKeyboardMarkup
+InlineKeyboardButton
+dotenv
+load_dotenv 
